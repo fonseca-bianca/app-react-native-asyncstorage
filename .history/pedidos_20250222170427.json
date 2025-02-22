@@ -1,0 +1,11 @@
+[
+    {
+      "id": "1",
+      "cliente": "Maria Silva",
+      "telefone": "51999999999",
+      "produtos": [{ "nome": "Rosa", "quantidade": 10 }],
+      "dataEntrega": "2023-11-15",
+      "valorTotal": 100.0,
+      "valorPago": 50.0
+    }
+  ]
