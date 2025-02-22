@@ -1,0 +1,2 @@
+Exemplo para aplicação em projeto extensionista da disciplina "Programação para Dispositivos Móveis em Android" utilizando React Native e persistência de dados local com Asyncstorage para o caso de criação de um modelo de aplicativo para uma floricultura.
+A problemática da floricultura está em ter problemas com o atual sistema para controle de estoque e registro de pedidos, necessitando armazenar os dados de forma local.
